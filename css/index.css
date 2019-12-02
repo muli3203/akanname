@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.formcontainer {
+    
+}
+
+.footer {
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+}
