@@ -26,5 +26,7 @@ These "day names" have further meanings concerning the soul and character of the
 I am yet to encounter bugs.
 
 ##### Copyright and License
+ Contact info
+ muli3203@gmail.com
 
 
