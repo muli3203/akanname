@@ -35,10 +35,10 @@ Open the index.html file on your favorite browser
 
 | Inputs |  Description |
 | :---   |          ---: |
-| Century   | The century that the user was born in, ``eg 20th century``|
-| Year     | The year of the century ``eg 98th year``|
-| Month    | The month of the year ``eg 7th month``|
-| Date     |  The day of the month ``eg 15th day``  |
+| Century   | The century that the user was born in, ``eg 21th century``|
+| Year     | The year of the century ``eg 88th year``|
+| Month    | The month of the year ``eg 9th month``|
+| Date     |  The day of the month ``eg 25th day``  |
 
 #### Known bugs
 
