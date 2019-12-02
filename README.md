@@ -6,7 +6,10 @@ Here is a live site link to my webpage https://github.com/muli3203/akanname.git
 
 The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born.
 These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name.
-This webpage generates Akan names according to the day  and century 
+This webpage generates Akan names according to the day  and century one was born.
+
+All one needs to do is to input valid information of their birthdate, birthmonth and birthyear.
+The program does the rest.
 
 ## Author
  Cheryl Wanja.
